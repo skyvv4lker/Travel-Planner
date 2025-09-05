@@ -13,7 +13,8 @@ OUT = travel
 
 # Paths
 DOCS = ../docs
-WEB_STATIC = ../web/static
+WEB_DIR = ../web
+WEB_STATIC = $(WEB_DIR)/static
 
 # ==========================
 # Targets
@@ -33,7 +34,7 @@ run-backend:
 
 # Run Flask frontend (auto-build backend first)
 run-frontend: build
-	cd ../web && python app.py
+	cd $(WEB_DIR) && python app.py
 
 # Clean compiled files
 clean:
