@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Travel Planner</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Travel Planner</h1>
+    <form id="plannerForm">
+      <label for="source">Source:</label>
+      <input type="text" id="source" placeholder="Enter source location" required>
+
+      <label for="destination">Destination:</label>
+      <input type="text" id="destination" placeholder="Enter destination" required>
+
+      <label for="preference">Preference:</label>
+      <select id="preference">
+        <option value="distance">Shortest Distance</option>
+        <option value="time">Minimum Time</option>
+        <option value="cost">Lowest Cost</option>
+      </select>
+
+      <button type="submit">Find Route</button>
+    </form>
+
+    <div id="output" class="output-box">
+      <h2>Optimal Route</h2>
+      <pre id="result">No route calculated yet.</pre>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
