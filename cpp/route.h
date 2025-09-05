@@ -3,7 +3,7 @@
 
 #include <string>
 
-#include "Location.h"
+#include "location.h"
 using namespace std;
 
 class Location;
