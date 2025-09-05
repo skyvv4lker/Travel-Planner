@@ -5,9 +5,9 @@
 #include <vector>
 #include <stack>
 
-#include "FileOperations.h"
-#include "Route.h"
-#include "GraphFunctions.h"
+#include "fileoperations.h"
+#include "route.h"
+#include "graphfunctions.h"
 
 using namespace std;
 
