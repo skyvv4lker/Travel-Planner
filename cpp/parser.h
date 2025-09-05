@@ -7,7 +7,7 @@
 #include <iostream>
 #include <vector>
 
-#include "Location.h"
+#include "location.h"
 
 using namespace std;
 
