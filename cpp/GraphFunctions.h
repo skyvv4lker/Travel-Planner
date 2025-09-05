@@ -8,9 +8,9 @@
 #include <cstdlib>
 #include <stack>
 
-#include "Location.h"
-#include "Route.h"
-#include "FileOperations.h"
+#include "location.h"
+#include "route.h"
+#include "fileoperations.h"
 
 using namespace std;
 
