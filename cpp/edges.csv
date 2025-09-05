@@ -1,0 +1,1980 @@
+source,target,cost
+Abu Dhabi,Canberra (Use Sydney),1339
+Abu Dhabi,Lima,1967
+Abu Dhabi,London,666
+Abu Dhabi,Manama,130
+Abu Dhabi,Masqat,30
+Abu Dhabi,Masqat,122
+Abu Dhabi,Pretoria (Use Johannesburg),714
+Abu Dhabi,Riyadh,172
+Abu Dhabi,Singapore,545
+Abu Dhabi,Washington DC,585
+Abuja,Cairo,971
+Abuja,N'Djamena,0.4
+Accra,Freetown,591
+Accra,Lome,344
+Accra,Ouagadougou,420
+Accra,Yamoussoukro,327
+Addis Ababa,Bamako,797
+Addis Ababa,Cairo,221
+Addis Ababa,Djibouti,288
+Addis Ababa,Mogadishu,830
+Algiers,Nassau,1710
+Algiers,Tunis,186
+Amman,Baghdad,456
+Amman,Baghdad,456
+Amman,Beirut,156
+Amman,Cairo,42.37
+Amman,Damascus,11
+Amman,Jerusalem,359
+Amsterdam,Berlin,70.5
+Amsterdam,Berlin,185
+Amsterdam,Brussels,19.58
+Amsterdam,Brussels,111
+Amsterdam,Canberra (Use Sydney),804
+Amsterdam,Lima,1640
+Amsterdam,London,60
+Amsterdam,Pretoria (Use Johannesburg),560
+Amsterdam,Singapore,549
+Amsterdam,Washington DC,662
+Andorra la Vella,Madrid,146
+Andorra la Vella,Paris,133
+Ankara,Cairo,470
+Ankara,Nicosia,422
+Ankara,Tehran,123
+Ankara,Yaounde,1123
+Antananarivo,Moroni,520
+Apia,Pago Pago,76
+Ashgabat,Astana,528
+Ashgabat,Kabul,695
+Ashgabat,Lima,1824
+Ashgabat,London,307
+Ashgabat,Pretoria (Use Johannesburg),908
+Ashgabat,Singapore,836
+Ashgabat,Tashkent,593
+Ashgabat,Tehran,598
+Ashgabat,Washington DC,1075
+Asmara,Canberra (Use Sydney),3284
+Asmara,Djibouti,629
+Asmara,Lima,2372
+Asmara,London,1168
+Asmara,Pretoria (Use Johannesburg),1170
+Asmara,Singapore,1467
+Asmara,Washington DC,1526
+Astana,Ashgabat,528
+Astana,Beijing,300
+Astana,Beijing,420
+Astana,Bishkek,963
+Astana,Kabul,196
+Astana,Moskva,363
+Astana,Tashkent,408
+Asuncion,Brasilia,89
+Asuncion,Buenos Aires,82
+Asuncion,Canberra (Use Sydney),2129
+Asuncion,La Paz,430
+Asuncion,London,1377
+Asuncion,Pretoria (Use Johannesburg),1720
+Asuncion,Singapore,2262
+Asuncion,Washington DC,934
+Athens,Belgrade,70.5
+Athens,Canberra (Use Sydney),870
+Athens,Lima,1282
+Athens,London,227
+Athens,Pretoria (Use Johannesburg),515
+Athens,Singapore,671
+Athens,Skopje,78
+Athens,Sofia,71
+Athens,Tirane,40
+Athens,Washington DC,1008
+Baghdad,Amman,456
+Baghdad,Amman,456
+Baghdad,Canberra (Use Sydney),1166
+Baghdad,Kuwait,426
+Baghdad,Lima,2166
+Baghdad,London,545
+Baghdad,Pretoria (Use Johannesburg),782
+Baghdad,Riyadh,488
+Baghdad,Singapore,907
+Baghdad,Tehran,601
+Baghdad,Washington DC,1269
+Baku,Canberra (Use Sydney),2200
+Baku,Lima,1900
+Baku,London,400
+Baku,Pretoria (Use Johannesburg),1500
+Baku,Tehran,152
+Baku,Washington DC,901
+Baku,Yerevan,68
+Bamako,Addis Ababa,797
+Bamako,Dakar,972.4
+Bamako,Ouagadougou,322
+Bandar Seri Begawan,Manila,132
+Bangkok,Beijing,327
+Bangkok,Kuala Lumpur,85
+Bangkok,Phnom Penh,50
+Bangkok,Seoul,650
+Bangkok,Singapore,65
+Bangkok,Thimphu,400
+Bangkok,Vientiane,78.34
+Bangui,Brazzaville,752
+Bangui,Canberra (Use Sydney),4170
+Bangui,Khartoum,1205
+Bangui,Lima,2952
+Bangui,London,758
+Bangui,N'Djamena,1775
+Bangui,Pretoria (Use Johannesburg),2280
+Bangui,Singapore,3327
+Bangui,Washington DC,1458
+Bangui,Yaounde,1608
+Banjul,Dakar,310
+Banjul,Freetown,274
+Beijing,Astana,300
+Beijing,Astana,420
+Beijing,Bangkok,327
+Beijing,Bishkek,400
+Beijing,Canberra (Use Sydney),816
+Beijing,Dushanbe,680
+Beijing,Hanoi,100
+Beijing,Islamabad,1634
+Beijing,Kathmandu,480
+Beijing,Kathmandu,1040
+Beijing,Lima,1637
+Beijing,London,771
+Beijing,Manila,345
+Beijing,New Delhi,655
+Beijing,P'yongyang,100
+Beijing,Phnom Penh,370
+Beijing,Pretoria (Use Johannesburg),800
+Beijing,Seoul,135
+Beijing,Singapore,306
+Beijing,Tashkent,1727
+Beijing,Tokyo,458
+Beijing,Vientiane,275
+Beijing,Washington DC,960
+Beijing,Yangon,350
+Beirut,Amman,156
+Belgrade,Athens,70.5
+Belgrade,Bucuresti,119
+Belgrade,Budapest,86
+Belgrade,Canberra (Use Sydney),1735
+Belgrade,Lima,1729
+Belgrade,London,181
+Belgrade,Pretoria (Use Johannesburg),1072
+Belgrade,Sarajevo,26
+Belgrade,Singapore,1152
+Belgrade,Skopje,225
+Belgrade,Skopje,225
+Belgrade,Sofia,119
+Belgrade,Tirane,43.24
+Belgrade,Vienna,225
+Belgrade,Washington DC,562
+Belgrade,Zagreb,70.45
+Belmopan,Canberra (Use Sydney),3661
+Belmopan,Guatemala,323
+Belmopan,Lima,843
+Belmopan,London,1272
+Belmopan,Mexico,488
+Belmopan,Pretoria (Use Johannesburg),3190
+Belmopan,Singapore,2647
+Belmopan,Singapore,2647
+Belmopan,Washington DC,488
+Berlin,Amsterdam,185
+Berlin,Bern,341
+Berlin,Brussels,242
+Berlin,Canberra (Use Sydney),1013
+Berlin,Copenhagen,221
+Berlin,Lima,957
+Berlin,London,174
+Berlin,Luxembourg,276
+Berlin,Paris,311
+Berlin,Prague,114
+Berlin,Pretoria (Use Johannesburg),614
+Berlin,Singapore,739
+Berlin,Sofia,172
+Berlin,Vienna,286
+Berlin,Warsaw,65
+Berlin,Washington DC,826
+Bern,Berlin,220
+Bern,Canberra (Use Sydney),2050
+Bern,Lima,3450
+Bern,London,480
+Bern,Paris,200
+Bern,Pretoria (Use Johannesburg),1790
+Bern,Rome,460
+Bern,Singapore,4500
+Bern,Vaduz,260
+Bern,Vienna,150
+Bern,Washington DC,5200
+Bishkek,Astana,963
+Bishkek,Beijing,400
+Bishkek,Tashkent,5.22
+Bissau,Doha,2693
+Bogota,Brasilia,766
+Bogota,Brasilia,1215
+Bogota,Canberra (Use Sydney),2303
+Bogota,Canberra (Use Sydney),2234
+Bogota,Caracas,619
+Bogota,Lima,593
+Bogota,Lima,933
+Bogota,London,1080
+Bogota,London,2653
+Bogota,Panama,446
+Bogota,Pretoria (Use Johannesburg),1982
+Bogota,Pretoria (Use Johannesburg),2557
+Bogota,Quito,200
+Bogota,Singapore,2110
+Bogota,Singapore,3581
+Bogota,Washington DC,574
+Bogota,Washington DC,696
+Brasilia,Asuncion,89
+Brasilia,Bogota,1215
+Brasilia,Bogota,766
+Brasilia,Canberra (Use Sydney),2804
+Brasilia,Canberra (Use Sydney),2831
+Brasilia,Caracas,244
+Brasilia,Cayenne,321.68
+Brasilia,La Paz,747
+Brasilia,Lima,891
+Brasilia,Lima,1056
+Brasilia,London,2472
+Brasilia,London,1588
+Brasilia,Montevideo,170
+Brasilia,Pretoria (Use Johannesburg),1352
+Brasilia,Pretoria (Use Johannesburg),1170
+Brasilia,Quito,961
+Brasilia,Singapore,4966
+Brasilia,Singapore,2446
+Brasilia,Washington DC,1437
+Brasilia,Washington DC,1279
+Bratislava,Budapest,16.8
+Bratislava,Kiev,225
+Bratislava,Prague,15.67
+Bratislava,Prague,32.64
+Bratislava,Warsaw,61.67
+Brazzaville,Bangui,752
+Bridgetown,Canberra (Use Sydney),2360
+Bridgetown,Kingstown,90
+Bridgetown,Lima,874
+Bridgetown,London,1300
+Bridgetown,Pretoria (Use Johannesburg),2122
+Bridgetown,Singapore,2300
+Bridgetown,Washington DC,570
+Brussels,Amsterdam,14.22
+Brussels,Amsterdam,46.56
+Brussels,Berlin,153.91
+Brussels,Berlin,63.36
+Brussels,Canberra (Use Sydney),937
+Brussels,Lima,1171
+Brussels,London,65
+Brussels,Luxembourg,48.65
+Brussels,Paris,32.33
+Brussels,Paris,50.46
+Brussels,Pretoria (Use Johannesburg),483
+Brussels,Singapore,558
+Brussels,Washington DC,779
+Bucuresti,Belgrade,225
+Bucuresti,Budapest,133
+Bucuresti,Canberra (Use Sydney),1551
+Bucuresti,Chisinau,225
+Bucuresti,Kiev,225
+Bucuresti,Lima,1651
+Bucuresti,London,164
+Bucuresti,Pretoria (Use Johannesburg),1055
+Bucuresti,Singapore,1012
+Bucuresti,Sofia,225
+Bucuresti,Washington DC,848
+Budapest,Belgrade,86
+Budapest,Bratislava,22
+Budapest,Bucuresti,38
+Budapest,Canberra (Use Sydney),1100
+Budapest,Georgetown,3114
+Budapest,Kiev,110
+Budapest,Lima,1800
+Budapest,London,250
+Budapest,Prague,25
+Budapest,Pretoria (Use Johannesburg),1000
+Budapest,Singapore,1000
+Budapest,Vienna,20
+Budapest,Warsaw,38
+Budapest,Washington DC,1700
+Budapest,Zagreb,62
+Buenos Aires,Asuncion,82
+Buenos Aires,La Paz,78
+Buenos Aires,Montevideo,370
+Buenos Aires,Santiago,150
+Bujumbura,Canberra (Use Sydney),2567
+Bujumbura,Kigali,7.34
+Bujumbura,Kinshasa,907
+Bujumbura,Lima,1897
+Bujumbura,London,1186
+Bujumbura,Pretoria (Use Johannesburg),395
+Bujumbura,Singapore,1567
+Bujumbura,Washington DC,1558
+Cairo,Abuja,971
+Cairo,Addis Ababa,221
+Cairo,Amman,42.37
+Cairo,Ankara,470
+Cairo,Canberra (Use Sydney),846
+Cairo,Jerusalem,145
+Cairo,Khartoum,198.9
+Cairo,Lima,914
+Cairo,London,286
+Cairo,Rome,334
+Cairo,Singapore,425
+Cairo,Sofia,463
+Cairo,Tripoli,1266
+Cairo,Washington DC,470
+Canberra (Use Sydney),Abu Dhabi,1339
+Canberra (Use Sydney),Amsterdam,804
+Canberra (Use Sydney),Asmara,3284
+Canberra (Use Sydney),Asuncion,2129
+Canberra (Use Sydney),Athens,870
+Canberra (Use Sydney),Baghdad,1166
+Canberra (Use Sydney),Baku,2200
+Canberra (Use Sydney),Bangui,4170
+Canberra (Use Sydney),Beijing,816
+Canberra (Use Sydney),Belgrade,1735
+Canberra (Use Sydney),Belmopan,3661
+Canberra (Use Sydney),Berlin,1013
+Canberra (Use Sydney),Bern,2050
+Canberra (Use Sydney),Bogota,2234
+Canberra (Use Sydney),Bogota,2303
+Canberra (Use Sydney),Brasilia,2831
+Canberra (Use Sydney),Brasilia,2804
+Canberra (Use Sydney),Bridgetown,2360
+Canberra (Use Sydney),Brussels,937
+Canberra (Use Sydney),Bucuresti,1551
+Canberra (Use Sydney),Budapest,1100
+Canberra (Use Sydney),Bujumbura,2567
+Canberra (Use Sydney),Cairo,846
+Canberra (Use Sydney),Caracas,2365
+Canberra (Use Sydney),Chisinau,1169
+Canberra (Use Sydney),Dili,2170
+Canberra (Use Sydney),Doha,850
+Canberra (Use Sydney),Dushanbe,1737
+Canberra (Use Sydney),George Town,4000
+Canberra (Use Sydney),Georgetown,2409
+Canberra (Use Sydney),Havana,79.5
+Canberra (Use Sydney),Helsinki,1300
+Canberra (Use Sydney),Islamabad,881
+Canberra (Use Sydney),Jerusalem,1667
+Canberra (Use Sydney),Kiev,1465
+Canberra (Use Sydney),Kigali,1916
+Canberra (Use Sydney),Kingston,438
+Canberra (Use Sydney),Kingston,1874
+Canberra (Use Sydney),Kinshasa,1528
+Canberra (Use Sydney),Koror,3935
+Canberra (Use Sydney),Kuala Lumpur,250
+Canberra (Use Sydney),Kuala Lumpur,212
+Canberra (Use Sydney),La Paz,3920
+Canberra (Use Sydney),Libreville,2116
+Canberra (Use Sydney),Lilongwe,1526
+Canberra (Use Sydney),Lima,2434
+Canberra (Use Sydney),Lisbon,656
+Canberra (Use Sydney),London,2274
+Canberra (Use Sydney),Luxembourg,937
+Canberra (Use Sydney),Madrid,1766
+Canberra (Use Sydney),Madrid,982
+Canberra (Use Sydney),Malabo,1730
+Canberra (Use Sydney),Male,700
+Canberra (Use Sydney),Male,691
+Canberra (Use Sydney),Manama,1000
+Canberra (Use Sydney),Manila,700
+Canberra (Use Sydney),Maseru,1211
+Canberra (Use Sydney),Mbabane,1500
+Canberra (Use Sydney),Montevideo,4282
+Canberra (Use Sydney),N'Djamena,1752
+Canberra (Use Sydney),Nassau,1650
+Canberra (Use Sydney),New Delhi,1931
+Canberra (Use Sydney),Noumea,260
+Canberra (Use Sydney),Noumea,252
+Canberra (Use Sydney),Nuku'alofa,543
+Canberra (Use Sydney),Nuuk,2710
+Canberra (Use Sydney),Oranjestad,1871
+Canberra (Use Sydney),Oslo,1315
+Canberra (Use Sydney),Ottawa,33.3
+Canberra (Use Sydney),P'yongyang,1500
+Canberra (Use Sydney),P'yongyang,2000
+Canberra (Use Sydney),Panama,1943
+Canberra (Use Sydney),Papeete,1767.1
+Canberra (Use Sydney),Paramaribo,2424
+Canberra (Use Sydney),Paris,762
+Canberra (Use Sydney),Phnom Penh,1147
+Canberra (Use Sydney),Port Moresby,840
+Canberra (Use Sydney),Port-Vila,1005
+Canberra (Use Sydney),Prague,744
+Canberra (Use Sydney),Praia,5385.6
+Canberra (Use Sydney),Pretoria (Use Johannesburg),1854
+Canberra (Use Sydney),Quito,1270.5
+Canberra (Use Sydney),Quito,3164
+Canberra (Use Sydney),Reykjavik,1068
+Canberra (Use Sydney),Riga,2200
+Canberra (Use Sydney),Road Town,2100
+Canberra (Use Sydney),Saint-Pierre,2000
+Canberra (Use Sydney),San Marino,1000
+Canberra (Use Sydney),San Salvador,2261
+Canberra (Use Sydney),Santiago,1650
+Canberra (Use Sydney),Sarajevo,1976
+Canberra (Use Sydney),Seoul,600
+Canberra (Use Sydney),Singapore,634
+Canberra (Use Sydney),St. Peter Port,945
+Canberra (Use Sydney),Stockholm,848
+Canberra (Use Sydney),Suva,877.64
+Canberra (Use Sydney),Tallinn,1057
+Canberra (Use Sydney),Tokyo,656
+Canberra (Use Sydney),Torshavn,2535
+Canberra (Use Sydney),Tunis,1200
+Canberra (Use Sydney),Valletta,1862
+Canberra (Use Sydney),Vientiane,687
+Canberra (Use Sydney),Vientiane,700
+Canberra (Use Sydney),Vilnius,1690
+Canberra (Use Sydney),W. Indies,1703
+Canberra (Use Sydney),Warsaw,824
+Canberra (Use Sydney),Washington DC,1604
+Canberra (Use Sydney),Wellington,538
+Canberra (Use Sydney),Willemstad,1952
+Canberra (Use Sydney),Yaounde,2082
+Canberra (Use Sydney),Zagreb,1760
+Caracas,Bogota,173
+Caracas,Bogota,708
+Caracas,Brasilia,244
+Caracas,Canberra (Use Sydney),2365
+Caracas,Lima,906
+Caracas,Lisbon,1238
+Caracas,London,1238
+Caracas,Pretoria (Use Johannesburg),2617
+Caracas,Singapore,2531
+Caracas,Washington DC,1209
+Cayenne,Brasilia,321.68
+Cayenne,Paramaribo,200
+Charlotte Amalie,Road Town,35
+Chisinau,Bucuresti,32.64
+Chisinau,Bucuresti,20.89
+Chisinau,Canberra (Use Sydney),1169
+Chisinau,Kiev,58.75
+Chisinau,Kiev,22.19
+Chisinau,Lima,2075
+Chisinau,London,228
+Chisinau,Pretoria (Use Johannesburg),780
+Chisinau,Singapore,569
+Chisinau,Washington DC,696
+Conakry,Libreville,934
+Conakry,London,849
+Conakry,Monrovia,627
+Conakry,Washington DC,1900
+Conakry,Yamoussoukro,35
+Copenhagen,Berlin,221
+Copenhagen,Reykjavik,467
+Copenhagen,Stockholm,236
+Copenhagen,Torshavn,205
+Copenhagen,Washington DC,948.22
+Dakar,Bamako,972.4
+Dakar,Banjul,310
+Damascus,Amman,11
+Dhaka,New Delhi,248
+Dhaka,Thimphu,250
+Dhaka,Yangon,769
+Dili,Canberra (Use Sydney),2170
+Dili,Jakarta,18
+Dili,Lima,6811
+Dili,London,2741
+Dili,Pretoria (Use Johannesburg),4500
+Dili,Singapore,930
+Dili,Washington DC,7875
+Djibouti,Addis Ababa,536
+Djibouti,Addis Ababa,230.5
+Djibouti,Asmara,629
+Djibouti,Mogadishu,536
+Dodoma,Lilongwe,453
+Dodoma,Nairobi,195
+Doha,Bissau,2693
+Doha,Canberra (Use Sydney),850
+Doha,Riyadh,352
+Dublin,Rome,172
+Dublin,Tripoli,688
+Dushanbe,Beijing,680
+Dushanbe,Canberra (Use Sydney),1737
+Dushanbe,London,1191
+Dushanbe,Pretoria (Use Johannesburg),1900
+Dushanbe,Singapore,1326
+Dushanbe,Washington DC,2024
+Fort-de-France,Roseau,557
+Freetown,Accra,591
+Freetown,Banjul,347
+Freetown,Monrovia,185
+Funafuti,Canberra (Use Sydney),660
+Funafuti,Lima,2700
+Funafuti,London,2200
+Funafuti,Pretoria (Use Johannesburg),2100
+Funafuti,Singapore,1050
+Funafuti,Suva,73
+Funafuti,Washington DC,2100
+Gaborone,Harare,83.09
+Gaborone,Lusaka,113.3
+Gaborone,Pretoria (Use Johannesburg),31.29
+Gaborone,Windhoek,147
+George Town,Canberra (Use Sydney),4000
+George Town,Lima,1000
+George Town,London,1300
+George Town,Pretoria (Use Johannesburg),2100
+George Town,Singapore,2900
+George Town,Washington DC,400
+Georgetown,Budapest,3114
+Georgetown,Canberra (Use Sydney),2409
+Georgetown,Lima,743
+Georgetown,Lisbon,1013
+Georgetown,London,1114
+Georgetown,Paramaribo,37
+Georgetown,Pretoria (Use Johannesburg),3350
+Georgetown,Singapore,1661
+Georgetown,Washington DC,556
+Guatemala,Belmopan,323
+Guatemala,Mexico,403
+Guatemala,Mexico,484
+Guatemala,Panama,585
+Guatemala,San Salvador,22
+Guatemala,Tegucigalpa,296
+Hanoi,Beijing,100
+Hanoi,Manila,312
+Hanoi,Phnom Penh,511
+Hanoi,Phnom Penh,110
+Hanoi,Vientiane,30
+Hanoi,Washington DC,1651.69
+Harare,Gaborone,83.09
+Harare,Lusaka,331
+Harare,Lusaka,13.5
+Harare,Maputo,375
+Harare,Pretoria (Use Johannesburg),450
+Havana,Canberra (Use Sydney),79.5
+Havana,London,1836.5
+Havana,Nassau,240
+Havana,Pretoria (Use Johannesburg),1748.5
+Havana,Singapore,1363
+Helsinki,Canberra (Use Sydney),1300
+Helsinki,Lima,1400
+Helsinki,London,200
+Helsinki,Moskva,140
+Helsinki,Oslo,150
+Helsinki,Pretoria (Use Johannesburg),1500
+Helsinki,Reykjavik,547
+Helsinki,Singapore,1200
+Helsinki,Stockholm,50
+Helsinki,Tallinn,36
+Helsinki,Washington DC,1500
+Honiara,Port-Vila,3000
+Islamabad,Beijing,1634
+Islamabad,Canberra (Use Sydney),881
+Islamabad,Kabul,1030
+Islamabad,Lima,2122
+Islamabad,Lima,2601
+Islamabad,London,533
+Islamabad,New Delhi,1386
+Islamabad,Pretoria (Use Johannesburg),600
+Islamabad,Singapore,10677
+Islamabad,Tehran,860
+Islamabad,Washington DC,951
+Jakarta,Dili,18
+Jakarta,Kuala Lumpur,69
+Jakarta,Port Moresby,1200
+Jerusalem,Amman,359
+Jerusalem,Cairo,145
+Jerusalem,Canberra (Use Sydney),1667
+Jerusalem,Lima,1221
+Jerusalem,London,275
+Jerusalem,Pretoria (Use Johannesburg),862
+Jerusalem,Singapore,1122
+Jerusalem,Washington DC,1691
+Kabul,Algiers,1210
+Kabul,Ashgabat,466
+Kabul,Astana,196
+Kabul,Islamabad,1030
+Kabul,T'bilisi,37
+Kabul,Tehran,449
+Kampala,Kigali,11.58
+Kampala,Nairobi,17.37
+Kathmandu,Beijing,1040
+Kathmandu,Beijing,480
+Kathmandu,New Delhi,35
+Kathmandu,Thimphu,250
+Khartoum,Bangui,1205
+Khartoum,Cairo,198.9
+Khartoum,London,556
+Khartoum,N'Djamena,70
+Khartoum,Washington DC,1023
+Kiev,Bratislava,225
+Kiev,Bucuresti,225
+Kiev,Budapest,110
+Kiev,Canberra (Use Sydney),1465
+Kiev,Chisinau,225
+Kiev,Lima,1738
+Kiev,London,218
+Kiev,Minsk,225
+Kiev,Moskva,225
+Kiev,Pretoria (Use Johannesburg),948
+Kiev,Singapore,969
+Kiev,Warsaw,225
+Kiev,Washington DC,622
+Kigali,Bujumbura,7.34
+Kigali,Canberra (Use Sydney),1916
+Kigali,Kampala,8.16
+Kigali,Kinshasa,694
+Kigali,Kinshasa,35
+Kigali,Lima,2832
+Kigali,London,996
+Kigali,Nairobi,500
+Kigali,Pretoria (Use Johannesburg),417
+Kigali,Singapore,1247
+Kigali,Singapore,1247
+Kigali,Washington DC,1021
+Kigali,Yaounde,664
+Kingston,Canberra (Use Sydney),438
+Kingston,Canberra (Use Sydney),1874
+Kingston,Lima,1200
+Kingston,London,1099
+Kingston,Pretoria (Use Johannesburg),1914
+Kingston,Singapore,1347
+Kingston,Washington DC,554
+Kingston,Wellington,276
+Kingstown,Bridgetown,90
+Kinshasa,Bujumbura,907
+Kinshasa,Canberra (Use Sydney),1528
+Kinshasa,Kigali,694
+Kinshasa,Kigali,35
+Kinshasa,Lima,4154
+Kinshasa,London,781
+Kinshasa,Pretoria (Use Johannesburg),442
+Kinshasa,Singapore,1059
+Kinshasa,Washington DC,1209
+Koror,Canberra (Use Sydney),3935
+Koror,Lima,2900
+Koror,London,2000
+Koror,Pretoria (Use Johannesburg),2000
+Koror,Singapore,1152
+Koror,Washington DC,1500
+Kuala Lumpur,Bangkok,85
+Kuala Lumpur,Canberra (Use Sydney),212
+Kuala Lumpur,Canberra (Use Sydney),250
+Kuala Lumpur,Jakarta,69
+Kuala Lumpur,Lima,1770
+Kuala Lumpur,London,575
+Kuala Lumpur,Pretoria (Use Johannesburg),846
+Kuala Lumpur,Singapore,10
+Kuala Lumpur,Washington DC,1000
+Kuala Lumpur,Washington DC,877
+Kuala Lumpur,Washington DC,1000
+Kuwait,Baghdad,426
+Kuwait,Tunis,461
+La Paz,Asuncion,80
+La Paz,Brasilia,747
+La Paz,Buenos Aires,78
+La Paz,Canberra (Use Sydney),3920
+La Paz,Lima,94
+La Paz,Lima,299
+La Paz,London,2234
+La Paz,Pretoria (Use Johannesburg),2078
+La Paz,Santiago,82
+La Paz,Singapore,2566
+La Paz,Washington DC,875.2
+Libreville,Canberra (Use Sydney),2116
+Libreville,Conakry,934
+Libreville,Lima,3844
+Libreville,London,3025
+Libreville,Singapore,1233
+Lilongwe,Canberra (Use Sydney),1526
+Lilongwe,Dodoma,453
+Lilongwe,Lima,2555
+Lilongwe,London,707
+Lilongwe,Lusaka,34
+Lilongwe,Maputo,702
+Lilongwe,Pretoria (Use Johannesburg),691
+Lilongwe,Singapore,901
+Lilongwe,Washington DC,1207
+Lima,Abu Dhabi,1967
+Lima,Amsterdam,1640
+Lima,Ashgabat,1824
+Lima,Asmara,2372
+Lima,Athens,1282
+Lima,Baghdad,2166
+Lima,Baku,1900
+Lima,Bangui,2952
+Lima,Beijing,1637
+Lima,Belgrade,1729
+Lima,Belmopan,843
+Lima,Berlin,957
+Lima,Bern,3450
+Lima,Bogota,933
+Lima,Bogota,593
+Lima,Brasilia,1190
+Lima,Bridgetown,874
+Lima,Brussels,1171
+Lima,Bucuresti,1651
+Lima,Budapest,1800
+Lima,Bujumbura,1897
+Lima,Cairo,914
+Lima,Canberra (Use Sydney),2434
+Lima,Caracas,906
+Lima,Chisinau,2075
+Lima,Dili,6811
+Lima,Funafuti,2700
+Lima,George Town,1000
+Lima,Georgetown,743
+Lima,Helsinki,1400
+Lima,Islamabad,2601
+Lima,Islamabad,2122
+Lima,Jerusalem,1221
+Lima,Kiev,1738
+Lima,Kigali,2832
+Lima,Kingston,1200
+Lima,Kinshasa,4154
+Lima,Koror,2900
+Lima,Kuala Lumpur,1770
+Lima,La Paz,94
+Lima,La Paz,299
+Lima,Libreville,3844
+Lima,Lilongwe,2555
+Lima,Lisbon,1337
+Lima,Luxembourg,1261
+Lima,Madrid,782
+Lima,Madrid,1193
+Lima,Malabo,2689
+Lima,Male,2300
+Lima,Male,1887
+Lima,Manama,1350
+Lima,Maseru,2643
+Lima,Mbabane,2700
+Lima,Mbabane,1200
+Lima,Montevideo,965
+Lima,N'Djamena,4351
+Lima,Nassau,850
+Lima,New Delhi,2192
+Lima,Noumea,4042
+Lima,Noumea,4000
+Lima,Nuku'alofa,3607
+Lima,Nuuk,4321
+Lima,Oranjestad,704
+Lima,Oslo,1525
+Lima,Ottawa,967
+Lima,Ouagadougou,2137
+Lima,P'yongyang,2700
+Lima,P'yongyang,3700
+Lima,Panama,429
+Lima,Papeete,4480.06
+Lima,Paramaribo,1065
+Lima,Paris,884
+Lima,Phnom Penh,3283
+Lima,Port Moresby,7063
+Lima,Port-Vila,6636
+Lima,Prague,1592
+Lima,Praia,6938.78
+Lima,Reykjavik,24.3
+Lima,Riga,3200
+Lima,Road Town,800
+Lima,Roseau,777
+Lima,Roseau,777
+Lima,Saint-Pierre,1200
+Lima,San Marino,1900
+Lima,San Salvador,1053
+Lima,Santiago,200
+Lima,Seoul,1700
+Lima,Singapore,2100
+Lima,St. Peter Port,2406
+Lima,Tallinn,2350
+Lima,Tehran,1328
+Lima,Tokyo,1800
+Lima,Torshavn,5493
+Lima,Tunis,1800
+Lima,Valletta,2691
+Lima,Vientiane,1742
+Lima,Vientiane,3000
+Lima,Vilnius,2500
+Lima,W. Indies,813
+Lima,Warsaw,1159
+Lima,Washington DC,900
+Lima,Wellington,2400
+Lima,Willemstad,709
+Lima,Yaounde,6231
+Lima,Zagreb,1769
+Lisbon,Canberra (Use Sydney),656
+Lisbon,Caracas,1238
+Lisbon,Georgetown,1013
+Lisbon,Lima,1337
+Lisbon,London,60
+Lisbon,Madrid,55.49
+Lisbon,Madrid,89
+Lisbon,Paramaribo,2467
+Lisbon,Pretoria (Use Johannesburg),554
+Lisbon,Rome,291
+Lisbon,Singapore,535
+Lisbon,Washington DC,799
+Ljubljana,Zagreb,28.73
+Lome,Accra,250
+Lome,Ouagadougou,287
+Lome,Porto-Novo,223
+London,Abu Dhabi,666
+London,Amsterdam,60
+London,Ashgabat,307
+London,Asmara,1168
+London,Asuncion,1377
+London,Athens,227
+London,Baghdad,545
+London,Baku,400
+London,Bangui,758
+London,Beijing,771
+London,Belgrade,181
+London,Belmopan,1272
+London,Berlin,174
+London,Bern,480
+London,Bogota,2653
+London,Bogota,1080
+London,Brasilia,1588
+London,Brasilia,2472
+London,Bridgetown,1300
+London,Brussels,65
+London,Bucuresti,164
+London,Budapest,250
+London,Bujumbura,1186
+London,Cairo,286
+London,Canberra (Use Sydney),2274
+London,Caracas,1238
+London,Chisinau,228
+London,Conakry,849
+London,Dili,2741
+London,Dushanbe,1191
+London,Funafuti,2200
+London,George Town,1300
+London,Georgetown,1114
+London,Havana,1836.5
+London,Helsinki,200
+London,Islamabad,533
+London,Jerusalem,275
+London,Khartoum,556
+London,Kiev,218
+London,Kigali,996
+London,Kingston,1099
+London,Kinshasa,781
+London,Koror,2000
+London,Kuala Lumpur,575
+London,La Paz,2234
+London,Libreville,3025
+London,Lilongwe,707
+London,Lisbon,60
+London,Luxembourg,55
+London,Madrid,53
+London,Madrid,359
+London,Malabo,909
+London,Male,545
+London,Male,570
+London,Manama,600
+London,Maseru,582
+London,Mbabane,1300
+London,Montevideo,1554
+London,N'Djamena,770
+London,Nassau,1260
+London,New Delhi,950
+London,Noumea,1200
+London,Noumea,1591
+London,Nuuk,1618.5
+London,Oranjestad,1148
+London,Oslo,138
+London,Ottawa,1570
+London,Ouagadougou,667
+London,P'yongyang,2300
+London,P'yongyang,1400
+London,Panama,1323
+London,Papeete,2545.7
+London,Paramaribo,1690
+London,Paris,230
+London,Phnom Penh,1486
+London,Port Moresby,2536
+London,Port-Vila,5956
+London,Prague,196
+London,Praia,1137.13
+London,Quito,1236.5
+London,Quito,2932
+London,Reykjavik,875
+London,Riga,180
+London,Road Town,3000
+London,Roseau,841
+London,San Marino,600
+London,San Salvador,1454
+London,Santiago,1900
+London,Sarajevo,335
+London,Seoul,680
+London,Singapore,450
+London,St. Peter Port,128
+London,St. Peter Port,72
+London,Stockholm,734
+London,Suva,2104.22
+London,Tallinn,100
+London,Tehran,217
+London,Tokyo,850
+London,Torshavn,588
+London,Tunis,400
+London,Tunis,400
+London,Valletta,610
+London,Vientiane,1450
+London,Vientiane,895
+London,Vilnius,125
+London,W. Indies,1260
+London,Warsaw,35
+London,Washington DC,900
+London,Washington DC,836
+London,Wellington,1200
+London,Willemstad,1279
+London,Yaounde,689
+London,Zagreb,213
+Luanda,Lusaka,923.56
+Luanda,Oranjestad,2572
+Luanda,Windhoek,823.07
+Luanda,Yerevan,1060
+Lusaka,Gaborone,513
+Lusaka,Harare,13.5
+Lusaka,Harare,331
+Lusaka,Lilongwe,34
+Lusaka,Luanda,923.56
+Lusaka,Maputo,499.6
+Lusaka,Windhoek,501.2
+Luxembourg,Berlin,264
+Luxembourg,Brussels,53
+Luxembourg,Canberra (Use Sydney),937
+Luxembourg,Lima,1261
+Luxembourg,London,55
+Luxembourg,Paris,101
+Luxembourg,Pretoria (Use Johannesburg),594
+Luxembourg,Singapore,563
+Luxembourg,Washington DC,932
+Madrid,Andorra la Vella,9
+Madrid,Andorra la Vella,45
+Madrid,Andorra la Vella,54
+Madrid,Canberra (Use Sydney),1766
+Madrid,Canberra (Use Sydney),982
+Madrid,Lima,782
+Madrid,Lima,1193
+Madrid,Lisbon,31.79
+Madrid,Lisbon,47.44
+Madrid,Lisbon,77.57
+Madrid,London,53
+Madrid,London,359
+Madrid,Paris,221.82
+Madrid,Paris,89.75
+Madrid,Paris,94.88
+Madrid,Pretoria (Use Johannesburg),591
+Madrid,Pretoria (Use Johannesburg),1089
+Madrid,Rome,243
+Madrid,Singapore,525
+Madrid,Singapore,1203
+Madrid,Washington DC,934
+Madrid,Washington DC,819
+Malabo,Canberra (Use Sydney),1730
+Malabo,Lima,2689
+Malabo,London,909
+Malabo,Pretoria (Use Johannesburg),699
+Malabo,Singapore,1167
+Malabo,Washington DC,1294
+Male,Canberra (Use Sydney),691
+Male,Canberra (Use Sydney),700
+Male,Lima,1887
+Male,Lima,2300
+Male,London,545
+Male,London,570
+Male,Male,0
+Male,New Delhi,448
+Male,Pretoria (Use Johannesburg),696
+Male,Pretoria (Use Johannesburg),696
+Male,Singapore,280
+Male,Singapore,280
+Male,Washington DC,1203
+Male,Washington DC,1203
+Mamoudzou,Moroni,15
+Managua,Canberra (Use Sydney),1932
+Managua,Lima,785
+Managua,London,1655
+Managua,Pretoria (Use Johannesburg),1968
+Managua,San Jose,375
+Managua,Singapore,1850
+Managua,Tegucigalpa,330
+Managua,Washington DC,510
+Manama,Abu Dhabi,130
+Manama,Canberra (Use Sydney),1000
+Manama,Lima,1350
+Manama,London,600
+Manama,Pretoria (Use Johannesburg),800
+Manama,Pretoria (Use Johannesburg),400
+Manama,Riyadh,31
+Manama,Washington DC,1000
+Manila,Bandar Seri Begawan,132
+Manila,Beijing,305
+Manila,Canberra (Use Sydney),700
+Manila,Hanoi,312
+Manila,Seoul,316
+Manila,Tokyo,819
+Manila,Tokyo,350
+Maputo,Harare,375
+Maputo,Lilongwe,702
+Maputo,Lusaka,499.6
+Maputo,Mbabane,390
+Maputo,Pretoria (Use Johannesburg),177
+Maseru,Canberra (Use Sydney),1211
+Maseru,Lima,2643
+Maseru,London,582
+Maseru,Pretoria (Use Johannesburg),32
+Maseru,Pretoria (Use Johannesburg),204
+Maseru,Pretoria (Use Johannesburg),21
+Maseru,Singapore,857
+Maseru,Washington DC,1057
+Masqat,Abu Dhabi,87
+Masqat,New Delhi,459
+Masqat,Riyadh,305
+Mbabane,Canberra (Use Sydney),1500
+Mbabane,Lima,1200
+Mbabane,Lima,2700
+Mbabane,London,1300
+Mbabane,Maputo,12
+Mbabane,Maputo,43
+Mbabane,Pretoria (Use Johannesburg),55
+Mbabane,Pretoria (Use Johannesburg),35
+Mbabane,Washington DC,2700
+Mexico,Belmopan,488
+Mexico,Guatemala,403
+Mexico,Guatemala,484
+Mexico,Washington DC,450
+Mexico,Washington DC,420
+Minsk,Kiev,225
+Minsk,Moskva,80
+Minsk,Vilnius,17
+Minsk,Warsaw,52.39
+Mogadishu,Addis Ababa,830
+Mogadishu,Djibouti,536
+Monrovia,Conakry,627
+Monrovia,Freetown,185
+Montevideo,Brasilia,170
+Montevideo,Buenos Aires,370
+Montevideo,Canberra (Use Sydney),4282
+Montevideo,Lima,965
+Montevideo,London,1554
+Montevideo,Pretoria (Use Johannesburg),1959
+Montevideo,Singapore,3167
+Montevideo,Washington DC,1438
+Moroni,Antananarivo,520
+Moroni,Mamoudzou,22
+Moskva,Astana,363
+Moskva,Helsinki,140
+Moskva,Kiev,225
+Moskva,Minsk,80
+Moskva,Tallinn,76
+Moskva,Tashkent,394
+N'Djamena,Abuja,0.4
+N'Djamena,Bangui,1775
+N'Djamena,Canberra (Use Sydney),1752
+N'Djamena,Khartoum,70
+N'Djamena,Lima,4351
+N'Djamena,London,770
+N'Djamena,Niamey,25
+N'Djamena,Pretoria (Use Johannesburg),738
+N'Djamena,Singapore,1291
+N'Djamena,Washington DC,1537
+N'Djamena,Yaounde,0.4
+Nairobi,Dodoma,195
+Nairobi,Kampala,17.37
+Nairobi,Kigali,500
+Nassau,Algiers,1710
+Nassau,Canberra (Use Sydney),1650
+Nassau,Havana,240
+Nassau,Lima,850
+Nassau,London,1260
+Nassau,Port-au-Prince,375
+Nassau,Pretoria (Use Johannesburg),1830
+Nassau,Santo Domingo,340
+Nassau,Singapore,3000
+Nassau,Washington DC,360
+New Delhi,Beijing,655
+New Delhi,Canberra (Use Sydney),1931
+New Delhi,Dhaka,248
+New Delhi,Islamabad,1360
+New Delhi,Islamabad,763
+New Delhi,Kathmandu,182
+New Delhi,Lima,2192
+New Delhi,London,950
+New Delhi,Male,448
+New Delhi,Masqat,459
+New Delhi,Pretoria (Use Johannesburg),925
+New Delhi,Singapore,719
+New Delhi,Thimphu,14
+New Delhi,Thimphu,400
+New Delhi,Washington DC,1232
+Niamey,N'Djamena,25
+Niamey,Ouagadougou,236
+Nicosia,Ankara,422
+Noumea,Canberra (Use Sydney),252
+Noumea,Canberra (Use Sydney),260
+Noumea,Lima,4000
+Noumea,Lima,4042
+Noumea,London,1200
+Noumea,London,1591
+Noumea,Pretoria (Use Johannesburg),1980
+Noumea,Pretoria (Use Johannesburg),4273
+Noumea,Singapore,1286
+Noumea,Singapore,1000
+Noumea,Washington DC,4865
+Noumea,Washington DC,2000
+Nuku'alofa,Canberra (Use Sydney),543
+Nuku'alofa,Lima,3607
+Nuku'alofa,Pretoria (Use Johannesburg),3261
+Nuku'alofa,Pretoria (Use Johannesburg),4634
+Nuku'alofa,Singapore,1293
+Nuku'alofa,Suva,313
+Nuku'alofa,Washington DC,1855
+Nuuk,Canberra (Use Sydney),2710
+Nuuk,Lima,4321
+Nuuk,London,1618.5
+Nuuk,Pretoria (Use Johannesburg),3030
+Nuuk,Reykjavik,573.55
+Nuuk,Washington DC,2210
+Oranjestad,Canberra (Use Sydney),1871
+Oranjestad,Lima,704
+Oranjestad,London,1148
+Oranjestad,Luanda,2572
+Oranjestad,Pretoria (Use Johannesburg),1838
+Oranjestad,Singapore,1701
+Oranjestad,Washington DC,450
+Oslo,Canberra (Use Sydney),1315
+Oslo,Helsinki,150
+Oslo,Lima,1525
+Oslo,London,138
+Oslo,Pretoria (Use Johannesburg),813
+Oslo,Singapore,778
+Oslo,Stockholm,113
+Oslo,Washington DC,503
+Ottawa,Canberra (Use Sydney),33.3
+Ottawa,Lima,967
+Ottawa,London,1570
+Ottawa,Pretoria (Use Johannesburg),1195
+Ottawa,Saint-Pierre,450
+Ottawa,Singapore,2497
+Ottawa,Washington DC,113
+Ottawa,Washington DC,460
+Ottawa,Washington DC,83
+Ottawa,Washington DC,535
+Ottawa,Washington DC,125
+Ouagadougou,Accra,420
+Ouagadougou,Bamako,322
+Ouagadougou,Lima,2137
+Ouagadougou,Lome,287
+Ouagadougou,London,667
+Ouagadougou,Niamey,236
+Ouagadougou,Porto-Novo,35
+Ouagadougou,Washington DC,1338
+Ouagadougou,Yamoussoukro,50
+P'yongyang,Beijing,100
+P'yongyang,Canberra (Use Sydney),2000
+P'yongyang,Canberra (Use Sydney),1500
+P'yongyang,Lima,3700
+P'yongyang,Lima,2700
+P'yongyang,London,2300
+P'yongyang,London,1400
+P'yongyang,Pretoria (Use Johannesburg),2300
+P'yongyang,Pretoria (Use Johannesburg),1300
+P'yongyang,Singapore,1600
+P'yongyang,Tokyo,900
+P'yongyang,Washington DC,2800
+P'yongyang,Washington DC,1600
+Pago Pago,Apia,76
+Palikir,Manila,500
+Panama,Bogota,420
+Panama,Bogota,407
+Panama,Canberra (Use Sydney),1943
+Panama,Guatemala,585
+Panama,Lima,429
+Panama,London,1323
+Panama,Pretoria (Use Johannesburg),2105
+Panama,San Jose,40
+Panama,San Jose,60
+Panama,San Jose,341
+Panama,Singapore,1822
+Panama,Washington DC,582
+Papeete,Canberra (Use Sydney),1767.1
+Papeete,Lima,4480.06
+Papeete,London,2545.7
+Papeete,Pretoria (Use Johannesburg),7842.52
+Papeete,Singapore,4376.53
+Papeete,Washington DC,1435.14
+Paramaribo,Canberra (Use Sydney),2424
+Paramaribo,Cayenne,40
+Paramaribo,Lima,1065
+Paramaribo,Lisbon,2467
+Paramaribo,London,1690
+Paramaribo,Pretoria (Use Johannesburg),1945
+Paramaribo,Singapore,2442
+Paramaribo,Washington DC,640
+Paris,Andorra la Vella,80
+Paris,Berlin,340
+Paris,Bern,162
+Paris,Brussels,69
+Paris,Canberra (Use Sydney),762
+Paris,Lima,884
+Paris,London,129.28
+Paris,London,81
+Paris,Luxembourg,107
+Paris,Madrid,246
+Paris,Pretoria (Use Johannesburg),467
+Paris,Rome,223
+Paris,Singapore,750
+Paris,Sofia,279
+Paris,St. Peter Port,49
+Paris,Washington DC,681
+Phnom Penh,Bangkok,140
+Phnom Penh,Beijing,370
+Phnom Penh,Canberra (Use Sydney),1147
+Phnom Penh,Hanoi,110
+Phnom Penh,Hanoi,511
+Phnom Penh,Lima,3283
+Phnom Penh,London,1486
+Phnom Penh,Pretoria (Use Johannesburg),1659
+Phnom Penh,Singapore,182
+Phnom Penh,Vientiane,190
+Phnom Penh,Washington DC,2203
+Port Moresby,Canberra (Use Sydney),840
+Port Moresby,Jakarta,29
+Port Moresby,Lima,7063
+Port Moresby,London,2536
+Port Moresby,Pretoria (Use Johannesburg),2080
+Port Moresby,Singapore,1470
+Port Moresby,Washington DC,2321
+Port-au-Prince,Nassau,375
+Port-au-Prince,Santo Domingo,40
+Port-Vila,Canberra (Use Sydney),1005
+Port-Vila,Lima,6636
+Port-Vila,London,5956
+Port-Vila,Pretoria (Use Johannesburg),4871
+Port-Vila,Singapore,2752
+Port-Vila,Washington DC,1712
+Porto-Novo,Lome,223
+Porto-Novo,Ouagadougou,35
+Prague,Berlin,55.22
+Prague,Berlin,41.78
+Prague,Bratislava,32.64
+Prague,Bratislava,15.67
+Prague,Budapest,25
+Prague,Canberra (Use Sydney),744
+Prague,Lima,1592
+Prague,London,196
+Prague,Pretoria (Use Johannesburg),604
+Prague,Singapore,800
+Prague,Vienna,39.17
+Prague,Vienna,28.07
+Prague,Warsaw,52.22
+Prague,Washington DC,602
+Praia,Canberra (Use Sydney),5385.6
+Praia,Lima,6938.78
+Praia,London,1137.13
+Praia,Pretoria (Use Johannesburg),3893.38
+Praia,Singapore,3696.23
+Praia,Washington DC,4622.87
+Pretoria (Use Johannesburg),Abu Dhabi,714
+Pretoria (Use Johannesburg),Amsterdam,560
+Pretoria (Use Johannesburg),Ashgabat,908
+Pretoria (Use Johannesburg),Asmara,1170
+Pretoria (Use Johannesburg),Asuncion,1720
+Pretoria (Use Johannesburg),Athens,515
+Pretoria (Use Johannesburg),Baghdad,782
+Pretoria (Use Johannesburg),Baku,1500
+Pretoria (Use Johannesburg),Bangui,2280
+Pretoria (Use Johannesburg),Beijing,800
+Pretoria (Use Johannesburg),Belgrade,1072
+Pretoria (Use Johannesburg),Belmopan,3190
+Pretoria (Use Johannesburg),Berlin,614
+Pretoria (Use Johannesburg),Bern,1790
+Pretoria (Use Johannesburg),Bogota,2557
+Pretoria (Use Johannesburg),Bogota,1982
+Pretoria (Use Johannesburg),Brasilia,1170
+Pretoria (Use Johannesburg),Brasilia,1352
+Pretoria (Use Johannesburg),Bridgetown,2122
+Pretoria (Use Johannesburg),Brussels,483
+Pretoria (Use Johannesburg),Bucuresti,1055
+Pretoria (Use Johannesburg),Budapest,1000
+Pretoria (Use Johannesburg),Bujumbura,395
+Pretoria (Use Johannesburg),Caracas,2617
+Pretoria (Use Johannesburg),Chisinau,780
+Pretoria (Use Johannesburg),Dili,4500
+Pretoria (Use Johannesburg),Dushanbe,1900
+Pretoria (Use Johannesburg),Funafuti,2100
+Pretoria (Use Johannesburg),Gaborone,31.29
+Pretoria (Use Johannesburg),George Town,2100
+Pretoria (Use Johannesburg),Georgetown,3350
+Pretoria (Use Johannesburg),Harare,450
+Pretoria (Use Johannesburg),Havana,1748.5
+Pretoria (Use Johannesburg),Helsinki,1500
+Pretoria (Use Johannesburg),Islamabad,600
+Pretoria (Use Johannesburg),Jerusalem,862
+Pretoria (Use Johannesburg),Kiev,948
+Pretoria (Use Johannesburg),Kigali,417
+Pretoria (Use Johannesburg),Kingston,1914
+Pretoria (Use Johannesburg),Kinshasa,442
+Pretoria (Use Johannesburg),Koror,2000
+Pretoria (Use Johannesburg),Kuala Lumpur,846
+Pretoria (Use Johannesburg),La Paz,2078
+Pretoria (Use Johannesburg),Lilongwe,691
+Pretoria (Use Johannesburg),Lisbon,554
+Pretoria (Use Johannesburg),Luxembourg,594
+Pretoria (Use Johannesburg),Madrid,1089
+Pretoria (Use Johannesburg),Madrid,591
+Pretoria (Use Johannesburg),Malabo,699
+Pretoria (Use Johannesburg),Male,696
+Pretoria (Use Johannesburg),Male,696
+Pretoria (Use Johannesburg),Manama,400
+Pretoria (Use Johannesburg),Manama,800
+Pretoria (Use Johannesburg),Maputo,34.75
+Pretoria (Use Johannesburg),Maseru,32
+Pretoria (Use Johannesburg),Maseru,21
+Pretoria (Use Johannesburg),Maseru,204
+Pretoria (Use Johannesburg),Mbabane,55
+Pretoria (Use Johannesburg),Mbabane,35
+Pretoria (Use Johannesburg),Montevideo,1959
+Pretoria (Use Johannesburg),N'Djamena,738
+Pretoria (Use Johannesburg),Nassau,1830
+Pretoria (Use Johannesburg),New Delhi,925
+Pretoria (Use Johannesburg),Noumea,4273
+Pretoria (Use Johannesburg),Noumea,1980
+Pretoria (Use Johannesburg),Nuku'alofa,3261
+Pretoria (Use Johannesburg),Nuku'alofa,4634
+Pretoria (Use Johannesburg),Nuuk,3030
+Pretoria (Use Johannesburg),Oranjestad,1838
+Pretoria (Use Johannesburg),Oslo,813
+Pretoria (Use Johannesburg),Ottawa,1195
+Pretoria (Use Johannesburg),P'yongyang,2300
+Pretoria (Use Johannesburg),P'yongyang,1300
+Pretoria (Use Johannesburg),Panama,2105
+Pretoria (Use Johannesburg),Papeete,7842.52
+Pretoria (Use Johannesburg),Paramaribo,1945
+Pretoria (Use Johannesburg),Paris,467
+Pretoria (Use Johannesburg),Phnom Penh,1659
+Pretoria (Use Johannesburg),Port Moresby,2080
+Pretoria (Use Johannesburg),Port-Vila,4871
+Pretoria (Use Johannesburg),Prague,604
+Pretoria (Use Johannesburg),Praia,3893.38
+Pretoria (Use Johannesburg),Quito,2583
+Pretoria (Use Johannesburg),Quito,1315.5
+Pretoria (Use Johannesburg),Reykjavik,2428
+Pretoria (Use Johannesburg),Riga,2300
+Pretoria (Use Johannesburg),Road Town,2600
+Pretoria (Use Johannesburg),Roseau,3163
+Pretoria (Use Johannesburg),San Marino,536
+Pretoria (Use Johannesburg),San Salvador,2305
+Pretoria (Use Johannesburg),Santiago,1500
+Pretoria (Use Johannesburg),Sarajevo,1141
+Pretoria (Use Johannesburg),Seoul,900
+Pretoria (Use Johannesburg),Singapore,1000
+Pretoria (Use Johannesburg),St. Peter Port,2111
+Pretoria (Use Johannesburg),St. Peter Port,838
+Pretoria (Use Johannesburg),Stockholm,532
+Pretoria (Use Johannesburg),Suva,7165.87
+Pretoria (Use Johannesburg),Tallinn,1090
+Pretoria (Use Johannesburg),Tehran,733
+Pretoria (Use Johannesburg),Tokyo,1150
+Pretoria (Use Johannesburg),Torshavn,2554
+Pretoria (Use Johannesburg),Valletta,1151
+Pretoria (Use Johannesburg),Vientiane,1280
+Pretoria (Use Johannesburg),Vilnius,1500
+Pretoria (Use Johannesburg),W. Indies,1594
+Pretoria (Use Johannesburg),Warsaw,541
+Pretoria (Use Johannesburg),Wellington,1200
+Pretoria (Use Johannesburg),Willemstad,2592
+Pretoria (Use Johannesburg),Willemstad,2369
+Pretoria (Use Johannesburg),Windhoek,115.46
+Pretoria (Use Johannesburg),Yaounde,720
+Pretoria (Use Johannesburg),Zagreb,1300
+Quito,Bogota,75
+Quito,Brasilia,961
+Quito,Canberra (Use Sydney),1270.5
+Quito,Canberra (Use Sydney),3164
+Quito,Lima,65
+Quito,Lima,478
+Quito,Lima,310
+Quito,London,1236.5
+Quito,London,2932
+Quito,Pretoria (Use Johannesburg),1315.5
+Quito,Pretoria (Use Johannesburg),2583
+Quito,Singapore,1215
+Quito,Singapore,4338
+Quito,Washington DC,1001
+Quito,Washington DC,787.83
+Reykjavik,Canberra (Use Sydney),1068
+Reykjavik,Copenhagen,467
+Reykjavik,Helsinki,547
+Reykjavik,Lima,2773
+Reykjavik,London,875
+Reykjavik,Nuuk,573.55
+Reykjavik,Pretoria (Use Johannesburg),2428
+Reykjavik,Singapore,2440
+Reykjavik,Torshavn,372
+Reykjavik,Torshavn,209
+Reykjavik,Vienna,554
+Reykjavik,Washington DC,258
+Riga,Canberra (Use Sydney),2200
+Riga,Lima,3200
+Riga,London,180
+Riga,Pretoria (Use Johannesburg),2300
+Riga,Singapore,900
+Riga,Tallinn,19
+Riga,Vilnius,25
+Riga,Washington DC,600
+Riyadh,Abu Dhabi,172
+Riyadh,Baghdad,488
+Riyadh,Doha,352
+Riyadh,Manama,31
+Riyadh,Masqat,305
+Riyadh,Tehran,646
+Road Town,Canberra (Use Sydney),2100
+Road Town,Charlotte Amalie,35
+Road Town,Lima,800
+Road Town,London,3000
+Road Town,Pretoria (Use Johannesburg),2600
+Road Town,San Juan,90
+Road Town,Singapore,2000
+Road Town,Washington DC,700
+Rome,Bern,460
+Rome,Cairo,334
+Rome,Dublin,172
+Rome,Lisbon,291
+Rome,Madrid,243
+Rome,Paris,215
+Rome,San Marino,100
+Rome,Sofia,120
+Rome,Tripoli,1147
+Rome,Valletta,421
+Rome,Vienna,200
+Rome,Warsaw,120
+Roseau,Fort-de-France,557
+Roseau,Lima,777
+Roseau,Lima,777
+Roseau,London,841
+Roseau,Pretoria (Use Johannesburg),3163
+Roseau,Singapore,2777
+Roseau,Washington DC,614
+Saint-Pierre,Canberra (Use Sydney),2000
+Saint-Pierre,Lima,1200
+Saint-Pierre,Ottawa,383
+Saint-Pierre,Singapore,2500
+Saint-Pierre,Washington DC,750
+Saipan,Tokyo,625
+San Jose,Canberra (Use Sydney),1020
+San Jose,Lima,379
+San Jose,London,1418
+San Jose,Managua,27.3
+San Jose,Managua,40.01
+San Jose,Panama,42
+San Jose,Pretoria (Use Johannesburg),1709
+San Jose,Singapore,1171
+San Jose,Washington DC,236
+San Juan,Road Town,90
+San Juan,Santo Domingo,205.3
+San Marino,Canberra (Use Sydney),1000
+San Marino,Lima,1900
+San Marino,London,600
+San Marino,Pretoria (Use Johannesburg),536
+San Marino,Rome,100
+San Marino,Singapore,800
+San Marino,Washington DC,2400
+San Salvador,Canberra (Use Sydney),2261
+San Salvador,Guatemala,22
+San Salvador,Lima,1053
+San Salvador,London,1454
+San Salvador,Pretoria (Use Johannesburg),2305
+San Salvador,Singapore,2261
+San Salvador,Tegucigalpa,28
+San Salvador,Washington DC,681
+San Salvador,Washington DC,681
+Santiago,Buenos Aires,301
+Santiago,Buenos Aires,60
+Santiago,Canberra (Use Sydney),1650
+Santiago,La Paz,232
+Santiago,La Paz,46
+Santiago,Lima,345
+Santiago,Lima,80
+Santiago,Lima,617
+Santiago,London,1900
+Santiago,Pretoria (Use Johannesburg),1500
+Santiago,Singapore,2139
+Santiago,Washington DC,1300
+Santo Domingo,Nassau,340
+Santo Domingo,Port-au-Prince,40
+Santo Domingo,San Juan,205.3
+Santo Domingo,Seoul,1685
+Sarajevo,Belgrade,26
+Sarajevo,Canberra (Use Sydney),1976
+Sarajevo,London,335
+Sarajevo,Pretoria (Use Johannesburg),1141
+Sarajevo,Singapore,1355
+Sarajevo,Washington DC,1191
+Sarajevo,Zagreb,32
+Seoul,Bangkok,650
+Seoul,Beijing,200
+Seoul,Beijing,90
+Seoul,Canberra (Use Sydney),600
+Seoul,Lima,1700
+Seoul,London,680
+Seoul,Manila,316
+Seoul,Pretoria (Use Johannesburg),900
+Seoul,Santo Domingo,1685
+Seoul,Singapore,370
+Seoul,Tokyo,330
+Seoul,Washington DC,1200
+Singapore,Abu Dhabi,545
+Singapore,Amsterdam,549
+Singapore,Ashgabat,836
+Singapore,Asmara,1467
+Singapore,Asuncion,2262
+Singapore,Athens,671
+Singapore,Baghdad,907
+Singapore,Bangkok,65
+Singapore,Bangui,3327
+Singapore,Beijing,306
+Singapore,Belgrade,1152
+Singapore,Belmopan,2647
+Singapore,Belmopan,2647
+Singapore,Berlin,739
+Singapore,Bern,4500
+Singapore,Bogota,3581
+Singapore,Bogota,2110
+Singapore,Brasilia,2446
+Singapore,Brasilia,4966
+Singapore,Bridgetown,2300
+Singapore,Brussels,558
+Singapore,Bucuresti,1012
+Singapore,Budapest,1000
+Singapore,Bujumbura,1567
+Singapore,Cairo,425
+Singapore,Canberra (Use Sydney),500
+Singapore,Caracas,2531
+Singapore,Chisinau,569
+Singapore,Dili,930
+Singapore,Dushanbe,1326
+Singapore,Funafuti,1050
+Singapore,George Town,2900
+Singapore,Georgetown,1661
+Singapore,Havana,1363
+Singapore,Helsinki,1200
+Singapore,Islamabad,10677
+Singapore,Jerusalem,1122
+Singapore,Kiev,969
+Singapore,Kigali,1247
+Singapore,Kigali,1247
+Singapore,Kingston,1347
+Singapore,Kinshasa,1059
+Singapore,Koror,1152
+Singapore,Kuala Lumpur,35
+Singapore,La Paz,2566
+Singapore,Libreville,1233
+Singapore,Lilongwe,901
+Singapore,Lima,2100
+Singapore,Lisbon,535
+Singapore,London,450
+Singapore,Luxembourg,563
+Singapore,Madrid,525
+Singapore,Madrid,1203
+Singapore,Malabo,1167
+Singapore,Male,280
+Singapore,Male,280
+Singapore,Maseru,857
+Singapore,Montevideo,3167
+Singapore,N'Djamena,1291
+Singapore,Nassau,3000
+Singapore,New Delhi,719
+Singapore,Noumea,1000
+Singapore,Noumea,1286
+Singapore,Nuku'alofa,1293
+Singapore,Oranjestad,1701
+Singapore,Oslo,778
+Singapore,Ottawa,2497
+Singapore,P'yongyang,1600
+Singapore,Panama,1822
+Singapore,Papeete,4376.53
+Singapore,Paramaribo,2442
+Singapore,Paris,750
+Singapore,Phnom Penh,182
+Singapore,Port Moresby,1470
+Singapore,Port-Vila,2752
+Singapore,Prague,800
+Singapore,Praia,3696.23
+Singapore,Pretoria (Use Johannesburg),1000
+Singapore,Quito,1215
+Singapore,Quito,4338
+Singapore,Reykjavik,2440
+Singapore,Riga,900
+Singapore,Road Town,2000
+Singapore,Roseau,2777
+Singapore,Saint-Pierre,2500
+Singapore,San Marino,800
+Singapore,San Salvador,2261
+Singapore,Santiago,2139
+Singapore,Sarajevo,1355
+Singapore,Seoul,370
+Singapore,Singapore,0
+Singapore,Stockholm,638
+Singapore,Suva,1609.73
+Singapore,Tallinn,720
+Singapore,Tehran,491
+Singapore,Tokyo,350
+Singapore,Torshavn,1616
+Singapore,Vientiane,507
+Singapore,Vientiane,250
+Singapore,Vilnius,1130
+Singapore,W. Indies,1441
+Singapore,Warsaw,652
+Singapore,Washington DC,1750
+Singapore,Wellington,866
+Singapore,Yaounde,1114
+Singapore,Zagreb,1424
+Skopje,Athens,78
+Skopje,Belgrade,225
+Skopje,Belgrade,225
+Skopje,Sofia,25
+Sofia,Athens,122
+Sofia,Belgrade,119
+Sofia,Berlin,172
+Sofia,Bucuresti,225
+Sofia,Cairo,463
+Sofia,Paris,279
+Sofia,Rome,120
+Sofia,Skopje,25
+St. Peter Port,Canberra (Use Sydney),945
+St. Peter Port,Lima,2406
+St. Peter Port,London,128
+St. Peter Port,London,72
+St. Peter Port,Paris,49
+St. Peter Port,Pretoria (Use Johannesburg),2111
+St. Peter Port,Pretoria (Use Johannesburg),838
+St. Peter Port,Washington DC,1057
+Stanley,Stanley,0
+Stanley,Stanley,0
+Stockholm,Canberra (Use Sydney),848
+Stockholm,Copenhagen,236
+Stockholm,Helsinki,170
+Stockholm,London,734
+Stockholm,Oslo,113
+Stockholm,Pretoria (Use Johannesburg),532
+Stockholm,Singapore,638
+Stockholm,Tallinn,150
+Stockholm,Washington DC,647
+Suva,Canberra (Use Sydney),877.64
+Suva,Funafuti,73
+Suva,London,2104.22
+Suva,Nuku'alofa,313
+Suva,Pretoria (Use Johannesburg),7165.87
+Suva,Singapore,1609.73
+Suva,Washington DC,3303.02
+T'bilisi,Kabul,37
+T'bilisi,Yerevan,8.44
+Tallinn,Canberra (Use Sydney),1057
+Tallinn,Helsinki,36
+Tallinn,Lima,2350
+Tallinn,London,100
+Tallinn,Moskva,76
+Tallinn,Pretoria (Use Johannesburg),1090
+Tallinn,Riga,19
+Tallinn,Singapore,720
+Tallinn,Stockholm,150
+Tallinn,Washington DC,830
+Tashkent,Ashgabat,593
+Tashkent,Astana,243
+Tashkent,Astana,243
+Tashkent,Beijing,1727
+Tashkent,Bishkek,5.22
+Tashkent,Moskva,394
+Tegucigalpa,Canberra (Use Sydney),1901
+Tegucigalpa,Guatemala,296
+Tegucigalpa,Lima,667
+Tegucigalpa,London,1602
+Tegucigalpa,Managua,292
+Tegucigalpa,Managua,20
+Tegucigalpa,Managua,33
+Tegucigalpa,Panama,57.75
+Tegucigalpa,Pretoria (Use Johannesburg),1907
+Tegucigalpa,San Salvador,15
+Tegucigalpa,San Salvador,296
+Tegucigalpa,Singapore,1780
+Tegucigalpa,Washington DC,466
+Tehran,Ankara,123
+Tehran,Ashgabat,608
+Tehran,Baghdad,529
+Tehran,Baku,152
+Tehran,Islamabad,596
+Tehran,Kabul,594
+Tehran,Lima,1328
+Tehran,London,217
+Tehran,Pretoria (Use Johannesburg),733
+Tehran,Riyadh,646
+Tehran,Singapore,491
+Tehran,Washington DC,799
+Tehran,Yerevan,7634
+Thimphu,Bangkok,400
+Thimphu,Dhaka,250
+Thimphu,Kathmandu,250
+Thimphu,New Delhi,14
+Thimphu,New Delhi,400
+Tirane,Athens,25.67
+Tirane,Belgrade,43.24
+Tokyo,Beijing,434
+Tokyo,Beijing,922
+Tokyo,Canberra (Use Sydney),656
+Tokyo,Lima,1800
+Tokyo,London,850
+Tokyo,Manila,350
+Tokyo,Manila,819
+Tokyo,P'yongyang,900
+Tokyo,Pretoria (Use Johannesburg),1150
+Tokyo,Saipan,625
+Tokyo,Seoul,71
+Tokyo,Seoul,350
+Tokyo,Singapore,350
+Tokyo,Washington DC,1200
+Torshavn,Canberra (Use Sydney),2535
+Torshavn,Copenhagen,205
+Torshavn,Lima,5493
+Torshavn,London,588
+Torshavn,Pretoria (Use Johannesburg),2554
+Torshavn,Reykjavik,130
+Torshavn,Singapore,1616
+Torshavn,Washington DC,2040
+Tripoli,Cairo,1266
+Tripoli,Dublin,688
+Tripoli,Rome,1147
+Tripoli,Tunis,182
+Tunis,Algiers,186
+Tunis,Canberra (Use Sydney),1200
+Tunis,Kuwait,461
+Tunis,Lima,1800
+Tunis,London,400
+Tunis,London,400
+Tunis,Tripoli,182
+Tunis,Valletta,799
+Tunis,Washington DC,2000
+Vaduz,Bern,74.78
+Valletta,Canberra (Use Sydney),1862
+Valletta,Lima,2691
+Valletta,London,610
+Valletta,Pretoria (Use Johannesburg),1151
+Valletta,Rome,421
+Valletta,Tunis,799
+Valletta,Washington DC,1552
+Vienna,Belgrade,225
+Vienna,Berlin,286
+Vienna,Bern,150
+Vienna,Budapest,20
+Vienna,Prague,28.07
+Vienna,Prague,39.17
+Vienna,Reykjavik,554
+Vienna,Rome,200
+Vientiane,Bangkok,67
+Vientiane,Bangkok,23
+Vientiane,Beijing,275
+Vientiane,Canberra (Use Sydney),700
+Vientiane,Canberra (Use Sydney),687
+Vientiane,Hanoi,45
+Vientiane,Hanoi,30
+Vientiane,Lima,3000
+Vientiane,Lima,1742
+Vientiane,London,1450
+Vientiane,London,895
+Vientiane,Phnom Penh,47
+Vientiane,Pretoria (Use Johannesburg),1280
+Vientiane,Singapore,250
+Vientiane,Singapore,507
+Vientiane,Washington DC,1142
+Vientiane,Washington DC,2100
+Vientiane,Yangon,65
+Vilnius,Canberra (Use Sydney),1690
+Vilnius,Lima,2500
+Vilnius,London,125
+Vilnius,Minsk,17
+Vilnius,Pretoria (Use Johannesburg),1500
+Vilnius,Riga,25
+Vilnius,Singapore,1130
+Vilnius,Warsaw,30
+Vilnius,Washington DC,925
+W. Indies,Canberra (Use Sydney),1703
+W. Indies,Lima,813
+W. Indies,London,1260
+W. Indies,Pretoria (Use Johannesburg),1594
+W. Indies,Singapore,1441
+W. Indies,Washington DC,244
+Warsaw,Berlin,105.81
+Warsaw,Bratislava,61.67
+Warsaw,Budapest,38
+Warsaw,Canberra (Use Sydney),824
+Warsaw,Kiev,66.6
+Warsaw,Lima,1159
+Warsaw,London,35
+Warsaw,Minsk,49.34
+Warsaw,Prague,43.62
+Warsaw,Pretoria (Use Johannesburg),541
+Warsaw,Rome,120
+Warsaw,Singapore,652
+Warsaw,Vilnius,23.63
+Warsaw,Washington DC,654
+Washington DC,Abu Dhabi,585
+Washington DC,Amsterdam,662
+Washington DC,Ashgabat,1075
+Washington DC,Asmara,1526
+Washington DC,Asuncion,934
+Washington DC,Athens,1008
+Washington DC,Baghdad,1269
+Washington DC,Baku,901
+Washington DC,Bangui,1458
+Washington DC,Beijing,960
+Washington DC,Belgrade,562
+Washington DC,Belmopan,488
+Washington DC,Berlin,826
+Washington DC,Bern,5200
+Washington DC,Bogota,696
+Washington DC,Bogota,574
+Washington DC,Brasilia,1279
+Washington DC,Brasilia,1437
+Washington DC,Bridgetown,570
+Washington DC,Brussels,779
+Washington DC,Bucuresti,848
+Washington DC,Budapest,1700
+Washington DC,Bujumbura,1558
+Washington DC,Cairo,470
+Washington DC,Canberra (Use Sydney),1604
+Washington DC,Caracas,1209
+Washington DC,Chisinau,696
+Washington DC,Conakry,1900
+Washington DC,Copenhagen,948.22
+Washington DC,Dili,7875
+Washington DC,Dushanbe,2024
+Washington DC,Funafuti,2100
+Washington DC,George Town,400
+Washington DC,Georgetown,556
+Washington DC,Hanoi,1651.69
+Washington DC,Helsinki,1500
+Washington DC,Islamabad,951
+Washington DC,Jerusalem,1691
+Washington DC,Khartoum,1023
+Washington DC,Kiev,622
+Washington DC,Kigali,1021
+Washington DC,Kingston,554
+Washington DC,Kinshasa,1209
+Washington DC,Koror,1500
+Washington DC,Kuala Lumpur,877
+Washington DC,Kuala Lumpur,1000
+Washington DC,Kuala Lumpur,1000
+Washington DC,La Paz,875.2
+Washington DC,Lilongwe,1207
+Washington DC,Lima,900
+Washington DC,Lisbon,799
+Washington DC,London,900
+Washington DC,London,836
+Washington DC,Luxembourg,932
+Washington DC,Madrid,934
+Washington DC,Madrid,819
+Washington DC,Malabo,1294
+Washington DC,Male,1203
+Washington DC,Male,1203
+Washington DC,Manama,1000
+Washington DC,Maseru,1057
+Washington DC,Mbabane,2700
+Washington DC,Mexico,425
+Washington DC,Montevideo,1438
+Washington DC,N'Djamena,1537
+Washington DC,Nassau,360
+Washington DC,New Delhi,1232
+Washington DC,Noumea,4865
+Washington DC,Noumea,2000
+Washington DC,Nuku'alofa,1855
+Washington DC,Nuuk,2210
+Washington DC,Oranjestad,450
+Washington DC,Oslo,503
+Washington DC,Ottawa,535
+Washington DC,Ottawa,125
+Washington DC,Ottawa,113
+Washington DC,Ottawa,460
+Washington DC,Ottawa,83
+Washington DC,Ouagadougou,1338
+Washington DC,P'yongyang,2800
+Washington DC,P'yongyang,1600
+Washington DC,Panama,582
+Washington DC,Papeete,1435.14
+Washington DC,Paramaribo,640
+Washington DC,Paris,681
+Washington DC,Phnom Penh,2203
+Washington DC,Port Moresby,2321
+Washington DC,Port-Vila,1712
+Washington DC,Prague,602
+Washington DC,Praia,4622.87
+Washington DC,Quito,1001
+Washington DC,Quito,787.83
+Washington DC,Reykjavik,258
+Washington DC,Riga,600
+Washington DC,Road Town,700
+Washington DC,Roseau,614
+Washington DC,Saint-Pierre,750
+Washington DC,San Marino,2400
+Washington DC,San Salvador,681
+Washington DC,San Salvador,681
+Washington DC,Santiago,1300
+Washington DC,Sarajevo,1191
+Washington DC,Seoul,1200
+Washington DC,Singapore,1750
+Washington DC,St. Peter Port,1057
+Washington DC,Stockholm,647
+Washington DC,Suva,3303.02
+Washington DC,Tallinn,830
+Washington DC,Tehran,799
+Washington DC,Tokyo,1200
+Washington DC,Torshavn,2040
+Washington DC,Tunis,2000
+Washington DC,Valletta,1552
+Washington DC,Vientiane,1142
+Washington DC,Vientiane,2100
+Washington DC,Vilnius,925
+Washington DC,W. Indies,244
+Washington DC,Warsaw,654
+Washington DC,Willemstad,609
+Washington DC,Yaounde,1590
+Washington DC,Zagreb,800
+Wellington,Canberra (Use Sydney),420
+Wellington,Kingston,276
+Wellington,Lima,2400
+Wellington,London,1200
+Wellington,Pretoria (Use Johannesburg),1200
+Wellington,Singapore,866
+Willemstad,Canberra (Use Sydney),1952
+Willemstad,Lima,709
+Willemstad,London,1279
+Willemstad,Pretoria (Use Johannesburg),2592
+Willemstad,Pretoria (Use Johannesburg),2369
+Willemstad,Washington DC,609
+Windhoek,Gaborone,150.29
+Windhoek,Luanda,823.07
+Windhoek,Lusaka,501.2
+Windhoek,Pretoria (Use Johannesburg),119
+Yamoussoukro,Accra,327
+Yamoussoukro,Conakry,35
+Yamoussoukro,Ouagadougou,50
+Yangon,Beijing,350
+Yangon,Dhaka,942
+Yangon,Vientiane,65
+Yaounde,Ankara,1123
+Yaounde,Bangui,4220
+Yaounde,Canberra (Use Sydney),2082
+Yaounde,Kigali,664
+Yaounde,Lima,6231
+Yaounde,London,689
+Yaounde,N'Djamena,0.4
+Yaounde,Pretoria (Use Johannesburg),720
+Yaounde,Singapore,1114
+Yaounde,Washington DC,1590
+Yerevan,Baku,446
+Yerevan,Luanda,1060
+Yerevan,T'bilisi,8.44
+Yerevan,Tehran,7634
+Zagreb,Belgrade,70.45
+Zagreb,Budapest,62
+Zagreb,Canberra (Use Sydney),1760
+Zagreb,Lima,1769
+Zagreb,Ljubljana,28.28
+Zagreb,London,213
+Zagreb,Pretoria (Use Johannesburg),1300
+Zagreb,Sarajevo,209.76
+Zagreb,Singapore,1424
+Zagreb,Washington DC,800
