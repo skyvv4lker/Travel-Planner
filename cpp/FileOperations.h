@@ -8,7 +8,7 @@
 #include <vector>
 #include <stack>
 
-#include "Location.h"
+#include "location.h"
 
 using namespace std;
 
