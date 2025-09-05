@@ -1,24 +1,47 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Travel Planner</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Smart Travel Planner</title>
+  <link rel="stylesheet" href="static/styles.css">
 </head>
 <body>
-  <h1>Travel Planner</h1>
-  <form method="POST">
-    <label>Origin:</label>
-    <input type="text" name="origin" required><br><br>
+  <header>
+    <h1>Smart Travel Planner 🗺️</h1>
+    <p>Your AI-powered travel assistant for finding the fastest, cheapest, or shortest routes between cities.</p>
+  </header>
 
-    <label>Destination:</label>
-    <input type="text" name="destination" required><br><br>
+  <main>
+    <section>
+      <h2>How It Works</h2>
+      <p>Our planner uses advanced graph-based algorithms like Dijkstra, BFS, and DFS to calculate optimal travel routes. Whether you want to minimize cost, distance, or travel time, we’ve got you covered.</p>
+      <ul>
+        <li>📍 Select your start and destination cities</li>
+        <li>⏱️ Choose your priority: fastest, cheapest, or shortest route</li>
+        <li>📊 Get a clear route visualization and travel summary</li>
+      </ul>
+    </section>
 
-    <label>Preference:</label>
-    <select name="preference">
-      <option value="fastest">Fastest</option>
-      <option value="cheapest">Cheapest</option>
-    </select><br><br>
+    <section>
+      <h2>Why Use This Planner?</h2>
+      <ul>
+        <li>🔹 Accurate shortest-path calculations</li>
+        <li>🔹 Handles multiple constraints like cost, distance, and time</li>
+        <li>🔹 Open-source and easy to customize</li>
+        <li>🔹 Ideal for students, travelers, and logistics enthusiasts</li>
+      </ul>
+    </section>
 
-    <button type="submit">Find Route</button>
-  </form>
+    <section>
+      <h2>Get Started</h2>
+      <p>Click below to start planning your trip:</p>
+      <a href="templates/index.html" class="btn">Plan Your Route</a>
+    </section>
+  </main>
+
+  <footer>
+    <p>📌 Open Source Project | Built with C++ & Python Flask | <a href="https://github.com/yourusername/travel-planner">View on GitHub</a></p>
+  </footer>
 </body>
 </html>
